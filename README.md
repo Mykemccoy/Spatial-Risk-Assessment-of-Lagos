@@ -14,7 +14,7 @@ Using multi-temporal satellite classification (Landsat Surface Reflectance / ESA
 ## SPATIAL RISK ASSESSMENT MAP
 
 <p align="center">
-  <img src="LAGOS SPATIAL RISK ASSESSMENT MAP.jpg" alt="Spatial Risk Assessment Map of Urban Sprawl and Wetland Degradation in Low-Lying Lagos (2000-2025)" width="850"/>
+  <img src="LAGOS SPATIAL RISK ASSESSMENT MAP.png" alt="Spatial Risk Assessment Map of Urban Sprawl and Wetland Degradation in Low-Lying Lagos (2000-2025)" width="850"/>
 </p>
 
 ---
